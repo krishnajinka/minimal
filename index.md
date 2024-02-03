@@ -10,15 +10,15 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Software defined storage with Rook & Ceph on Kubernetes
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Architecture and development of software defined storage in Kubernetes cluster using Rook & Ceph 
 
-## Header 2
+## Network function virtualization for 4G mobile deployments
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+NFV MANO (network functions virtualization management and network orchestration) to integrate with Openstack and
+Virtual Network Functions via secured REST APIs based on Standard specifications. Some of the features owned are
+instantiation, (auto)scaling(in/out), cold migration
 
 ### Header 3
 
