@@ -1,17 +1,6 @@
-title: <p align="center"> Krishna Jinka </p>
+title: Krishna Jinka 
 logo: /assets/img/logo.png
-
-description:
-  <p align="center">
-  <a href="https://www.linkedin.com/in/krishna-jinka/">LinkedIn</a> |
-  <a href="https://github.com/krishnajinka">GitHub</a>
-  
-  <br>   
-  I'm working on Cloud development related projects
-  Arhictecting Kubernetes, Rook Ceph based Software defined storage
-  Worked with IBM at Virtualization team for IBM Power servers.
-  Working in Healthcare domain for 2 years.
-  <br>
-
-
+description: Working on Cloud development projects
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
